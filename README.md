@@ -14,7 +14,7 @@ Make a quiz app that tests your general knowledge. As one of the most popular ty
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## What I learnt
+## What I learnt📐
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
@@ -55,4 +55,7 @@ Question('Some cats are actually allergic to humans', true),
 
 ```
 
+## References
+ - https://www.appbrewery.co/p/intro-to-flutter
+ - https://www.udemy.com/course/flutter-bootcamp-with-dart/
 
